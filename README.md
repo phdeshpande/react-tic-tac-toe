@@ -1,6 +1,5 @@
-
 # react-tic-tac-toe
-A react demo of tic tac toe game
+A react demo of tic tac toe game. Project is intended to show a demo of Tic Tac Toe game using React.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
